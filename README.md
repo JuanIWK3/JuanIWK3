@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **juaniwk3@gmail.com**
 
+- Projects juaniwk3.github.io/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/juaniwk3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="juaniwk3" height="30" width="40" /></a>
