@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **juaniwk3@gmail.com**
 
-- Projects **https://juaniwk3.github.io/**
+- 🛠️ Projects **https://juaniwk3.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
