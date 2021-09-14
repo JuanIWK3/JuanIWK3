@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Israel dos Anjos</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **juaniwk3@gmail.com**
 
