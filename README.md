@@ -50,5 +50,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juaniwk3&label=Profile%20views&color=0e75b6&style=flat" alt="juaniwk3" /> </p>
