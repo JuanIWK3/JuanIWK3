@@ -51,4 +51,4 @@
   </a> 
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanIWK3&show_icons=true&theme=dark&locale=en&layout=compact" alt="JuanIWK3"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanIWK3&show_icons=true&theme=dark&locale=en&layout=compact" alt="JuanIWK3"/>
