@@ -50,3 +50,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
+
+<a href="https://github.com/JuanIWK3%22%3E<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cenachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="JuanIWK3"/></a>
