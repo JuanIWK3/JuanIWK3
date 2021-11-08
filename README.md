@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Juan Israel dos Anjos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on
-[letmeask](https://github.com/JuanIWK3/letmeask) - 🌱 I’m currently learning
-**TypeScript and ReactJS** - 👨‍💻 All of my projects are available at
-[https://juaniwk3.github.io/](https://juaniwk3.github.io/) - 📫 How to reach
-me **juaniwk3@gmail.com**
+<p>
+    - 🔭 I’m currently working on
+[letmeask](https://github.com/JuanIWK3/letmeask)
+</p>
+<p> - 🌱 I’m currently learning
+    **TypeScript and ReactJS**
+</p>
+<p> - 👨‍💻 All of my projects are available at
+    [https://juaniwk3.github.io/](https://juaniwk3.github.io/)
+</p>
+<p> - 📫 How to reach me **juaniwk3@gmail.com**</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
