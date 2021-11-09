@@ -2,14 +2,12 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p>
-    - 🔭 I’m currently working on
-[letmeask](https://github.com/JuanIWK3/letmeask)
+    <!-- 🔭 I’m currently working on -->
 </p>
 <p> - 🌱 I’m currently learning
     **TypeScript and ReactJS**
 </p>
-<p> - 👨‍💻 All of my projects are available at
-    [https://juaniwk3.github.io/](https://juaniwk3.github.io/)
+<p> - 👨‍💻 All of my projects are available at https://juaniwk3.github.io/
 </p>
 <p> - 📫 How to reach me **juaniwk3@gmail.com**</p>
 
