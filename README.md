@@ -5,7 +5,7 @@
     <!-- 🔭 I’m currently working on -->
 </p>
 <p> - 🌱 I’m currently learning
-    **TypeScript and ReactJS**
+    <strong>TypeScript and ReactJS</strong>
 </p>
 <!-- <p> - 👨‍💻 All of my projects are available at https://juaniwk3.github.io/ -->
 </p>
