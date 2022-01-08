@@ -7,7 +7,7 @@
 <p> - 🌱 I’m currently learning
     <strong>TypeScript and ReactJS</strong>
 </p>
-<!-- <p> - 👨‍💻 All of my projects are available at https://juaniwk3.github.io/ -->
+<p> - 👨‍💻 All of my projects are available at https://juaniwk3.github.io/
 </p>
 <p> - 📫 How to reach me **juaniwk3@gmail.com**</p>
 
