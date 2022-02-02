@@ -62,6 +62,14 @@
         height="40"
     />
     </a>
+    <a href="https://nextjs.org/" target="_blank">
+    <img
+        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+        alt="next"
+        width="40"
+        height="40"
+    />
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
