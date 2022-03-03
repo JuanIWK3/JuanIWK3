@@ -121,10 +121,8 @@
         width="40"
         height="40"
     />
-    </a>
-    
-    <p align="center">Back</p>
-    
+    </a>    
+    <p align="center">Back</p>    
     <a href="https://nodejs.org/en/about/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
