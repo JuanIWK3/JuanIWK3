@@ -104,7 +104,7 @@
     />
     </a>
     <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://www.javascript.com/"
     target="_blank"
     >
     <img
