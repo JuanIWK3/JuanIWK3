@@ -62,9 +62,17 @@
         height="40"
     />
     </a>
+    <a href="https://angular.io/" target="_blank">
+    <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"
+        alt="angular"
+        width="40"
+        height="40"
+    />
+    </a>
     <a href="https://nextjs.org/" target="_blank">
     <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+        src="https://me-webdev.com/ProgrammingLanguagesIcons/nextPNG.png"
         alt="next"
         width="40"
         height="40"
