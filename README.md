@@ -12,8 +12,8 @@
 <p> - 📫 How to reach me **juaniwk3@gmail.com**</p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://codepen.io/https://codepen.io/juaniwk3" target="blank">
     <img
         align="center"
@@ -49,11 +49,11 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p>Front</p>
+<p align="center">Front</p>
 
-<p align="left">
+<p align="center">
     <a href="https://reactjs.org/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -122,7 +122,9 @@
         height="40"
     />
     </a>
-    <p>Back</p>
+    
+    <p align="center">Back</p>
+    
     <a href="https://nodejs.org/en/about/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -147,7 +149,7 @@
         height="40"
     />
     </a>
-    <p>Database</p>
+    <p align="center">Database</p>
     <a href="https://www.mysql.com/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -164,7 +166,7 @@
         height="40"
     />
     </a>
-    <p>Tools</p>
+    <p align="center">Tools</p>
     <a href="https://firebase.google.com/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
