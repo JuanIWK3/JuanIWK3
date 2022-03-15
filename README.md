@@ -43,10 +43,6 @@
     <a href="https://nextjs.org/" target="_blank">
       <img src="https://me-webdev.com/ProgrammingLanguagesIcons/nextPNG.png" alt="next" width="40" height="40" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" />
-    </a>
     <a href="https://styled-components.com/" target="_blank">
       <img
         src="https://camo.githubusercontent.com/a973f0eb2a84d7fb351f04be8444a8f1c14b78457cccfd3e69b9c34774e62efc/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f6a626869716f64786c796861716f6766757177792f313438363130343630362e706e673f773d34303026683d343030266669743d63726f702663726f703d656e74726f7079266175746f3d636f6d7072657373"
@@ -55,10 +51,6 @@
     </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" />
-    </a>
     <a href="https://www.javascript.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" />
