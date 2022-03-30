@@ -12,11 +12,6 @@
   </div>
   <div align="center">
     <h3 align="center">Connect with me:</h3>
-    <a href="https://codepen.io/https://codepen.io/juaniwk3" target="blank">
-      <img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-        alt="https://codepen.io/juaniwk3" height="30" width="40" />
-    </a>
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-israel-b83a29207/" target="blank">
       <img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
