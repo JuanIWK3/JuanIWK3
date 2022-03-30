@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Juan Israel dos Anjos</h1>
     <h3 align="center">A developer from Brazil</h3>
     <p> - 🌱 I’m currently learning
-      <strong>Angular and React Native</strong>
+      <strong>Angular</strong>
     </p>
     <p> - 👨‍💻 All of my projects are available at
       <a href="https://next-portifolio-jiwk3.vercel.app/">Portifolio
