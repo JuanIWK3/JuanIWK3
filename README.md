@@ -5,7 +5,7 @@
       <strong>Angular and React Native</strong>
     </p>
     <p> - 👨‍💻 All of my projects are available at
-      <a href="https://vercel.com/juaniwk3/next-portifolio/settings/domains">Portifolio
+      <a href="https://next-portifolio-jiwk3.vercel.app/">Portifolio
       </a>
     </p>
     <p> - 📫 How to reach me **juaniwk3@gmail.com**</p>
