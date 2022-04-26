@@ -33,6 +33,14 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"
         alt="angular" width="40" height="40" />
     </a>
+   <a href="https://www.javascript.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+        alt="typescript" width="40" height="40" />
+    </a>
     <a href="https://nextjs.org/" target="_blank">
       <img src="https://me-webdev.com/ProgrammingLanguagesIcons/nextPNG.png" alt="next" width="40" height="40" />
     </a>
@@ -44,14 +52,6 @@
     </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
         width="40" height="40" /> </a>
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-        alt="typescript" width="40" height="40" />
-    </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
