@@ -62,6 +62,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
         alt="javascript" width="40" height="40" />
     </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+    </a> 
     <a href="https://www.java.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
         width="40" height="40" />
@@ -88,7 +91,10 @@
     </a>
   </div>
   <div align="center">
-    <p align="center">Tools</p>    
+    <p align="center">Tools</p>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    </a> 
     <a href="https://www.photoshop.com/en" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
         alt="photoshop" width="40" height="40" />
