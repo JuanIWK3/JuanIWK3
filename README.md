@@ -4,7 +4,7 @@
     <p> - 🌱 I’m currently learning
       <strong>Angular</strong>
     </p>
-    <p> - 👨‍💻 All of my projects are available at
+    <p> - 👨‍💻 Some of my projects are available at
       <a href="https://next-portifolio-jiwk3.vercel.app/">Portifolio
       </a>
     </p>
