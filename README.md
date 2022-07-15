@@ -108,3 +108,18 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanIWK3&show_icons=true&theme=dark&locale=en&layout=compact"
         alt="JuanIWK3" /></a>
   </div>
+  
+  <div align="left">
+  <h2> ⚙️ GitHub Analytics </h2>
+  <a href="https://github.com/juaniwk3">
+    <table>
+      <tr>
+        <td style="padding: 0; width=50%;">
+            <img src="https://github-readme-stats.vercel.app/api/?username=juaniwk3&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
+        </td>
+          <td style="padding: 0; width=50%;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&layout=compact&langs_count=7&theme=dark&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+        </td>
+      </tr>
+    </table>
+</div>
